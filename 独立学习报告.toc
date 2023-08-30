@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}传统机器学习中存在的问题}{2}{}%
+\contentsline {section}{\numberline {2}随机矩阵理论}{2}{}%
+\contentsline {subsection}{\numberline {2.1}基础工具}{3}{}%
+\contentsline {subsection}{\numberline {2.2}MP分布律、Wigner半圆分布律及其推广}{4}{}%
+\contentsline {subsection}{\numberline {2.3}关于协方差矩阵经验谱分布的进一步讨论}{7}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}利用Stieltjes变换的反函数求解$\textup {supp}(\tilde \mu )$}{8}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}$\textup {supp}(\nu )$和$\textup {supp}(\mu )$的关系}{9}{}%
+\contentsline {subsection}{\numberline {2.4}关于$C$特征值的统计推断}{10}{}%
+\contentsline {subsection}{\numberline {2.5}Spiked模型}{13}{}%
+\contentsline {subsubsection}{\numberline {2.5.1}特征值溢出问题}{13}{}%
+\contentsline {subsubsection}{\numberline {2.5.2}扰动项对特征向量的干扰}{14}{}%
+\contentsline {subsubsection}{\numberline {2.5.3}扰动的统计检验方法}{14}{}%
+\contentsline {section}{\numberline {3}应用案例分析}{15}{}%
+\contentsline {subsection}{\numberline {3.1}分布式线性回归模型的效率分析}{15}{}%
+\contentsline {subsection}{\numberline {3.2}核方法中的随机矩阵}{16}{}%

@@ -1,0 +1,113 @@
+\begin{thebibliography}{10}
+
+\bibitem{couillet_liao_2022}
+Romain Couillet and Zhenyu Liao.
+\newblock {\em Random Matrix Methods for Machine Learning}.
+\newblock Cambridge University Press, 2022.
+
+\bibitem{random2}
+Yue Sheng.
+\newblock Applications of random matrix theory in statistics and machine
+  learning.
+\newblock 01 2021.
+
+\bibitem{Li2007MIMORW}
+Jian Li and Petre Stoica.
+\newblock Mimo radar with colocated antennas.
+\newblock {\em IEEE Signal Processing Magazine}, 24:106--114, 2007.
+
+\bibitem{Laloux2000RANDOMMT}
+Laurent Laloux, Pierre Cizeau, Marc Potters, and Jean-Philippe Bouchaud.
+\newblock Random matrix theory and financial correlations.
+\newblock {\em International Journal of Theoretical and Applied Finance},
+  03:391--397, 2000.
+
+\bibitem{vaart_1998}
+A.~W. van~der Vaart.
+\newblock {\em Asymptotic Statistics}.
+\newblock Cambridge Series in Statistical and Probabilistic Mathematics.
+  Cambridge University Press, 1998.
+
+\bibitem{Wishart1928THEGP}
+John Wishart.
+\newblock The generalised product moment distribution in samples from a normal
+  multivariate population.
+\newblock {\em Biometrika}, pages 32--52, 1928.
+
+\bibitem{Wigner1955CharacteristicVO}
+Eugene~Paul Wigner.
+\newblock Characteristic vectors of bordered matrices with infinite dimensions
+  i.
+\newblock {\em Annals of Mathematics}, 62:541--545, 1955.
+
+\bibitem{Voiculescu1992FreeRV}
+Dan Voiculescu, Ken Dykema, and Alexandru Nica.
+\newblock Free random variables.
+\newblock 1992.
+
+\bibitem{MP1}
+V.~Marchenko and Leonid Pastur.
+\newblock Distribution of eigen values in certain sets of random matrices.
+\newblock {\em Mat. Sb. (N. S.)}, 72, 01 1967.
+
+\bibitem{MP2}
+Jack Silverstein and Z.~Bai.
+\newblock On the empirical distribution of eigenvalues of a class of large
+  dimensional random matrices.
+\newblock {\em Journal of Multivariate Analysis}, 54:175--192, 02 1995.
+
+\bibitem{numericalMP}
+Romain Couillet, mérouane Debbah, and Jack Silverstein.
+\newblock A deterministic equivalent for the analysis of correlated mimo
+  multiple access channels.
+\newblock {\em Information Theory, IEEE Transactions on}, 57:3493 -- 3514, 07
+  2011.
+
+\bibitem{wigner}
+E.P. Wigner.
+\newblock Characteristic vectors of bordered matrices with infinite dimensions.
+\newblock {\em Ann. Math.}, 62:548--564, 01 1955.
+
+\bibitem{solve}
+Jack Silverstein and S.~Choi.
+\newblock Analysis of the limiting spectral distribution of large dimensional
+  random matrices.
+\newblock {\em Journal of Multivariate Analysis}, 54:295--309, 08 1995.
+
+\bibitem{gamma2}
+Z.~Bai, Jack Silverstein, and Y.Q Yin.
+\newblock A note on the largest eigenvalue of a large dimensional sample
+  covariance matrix.
+\newblock {\em Journal of Multivariate Analysis}, 26:166--168, 08 1988.
+
+\bibitem{gamma1}
+Z.~Bai and Jack Silverstein.
+\newblock No eigenvalues outside the support of the limiting spectral
+  distribution of large dimensional sample covariance matrices.
+\newblock {\em The Annals of Probability}, 26, 02 2000.
+
+\bibitem{spike1}
+Jinho Baik and Jack Silverstein.
+\newblock Eigenvalues of large sample covariance matrices of spiked population
+  models.
+\newblock {\em Journal of Multivariate Analysis}, 97:1382--1408, 07 2006.
+
+\bibitem{spike2}
+Debashis Paul.
+\newblock Asymptotics of sample eigenstruture for a large dimensional spiked
+  covariance model.
+\newblock {\em Statistica Sinica}, 17:1617--1642, 10 2007.
+
+\bibitem{spike3}
+Noureddine Karoui.
+\newblock Tracy–widom limit for the largest eigenvalue of a large class of
+  complex sample covariance matrices.
+\newblock {\em Annals of Probability}, 35, 03 2005.
+
+\bibitem{spike4}
+Romain Couillet and Walid Hachem.
+\newblock Fluctuations of spiked random matrix models and failure diagnosis in
+  sensor networks.
+\newblock {\em IEEE Transactions on Information Theory}, 59, 07 2011.
+
+\end{thebibliography}
